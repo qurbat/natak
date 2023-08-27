@@ -1,15 +1,14 @@
 ---
-title: About Garth
+title: About Natak.org
 ---
 
-A really basic theme for Jekyll, using the official Jekyll theme implementation.
+Natak.org is an information security news and research publication. 
 
-- [Fork on GitHub](https://github.com/daviddarnes/garth)
-- [Install Garth](https://github.com/daviddarnes/garth#installation)
+- [Follow @natak.org on Bluesky](https://bsky.app/profile/natak.org)
 
 [<img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" width="217"/>](https://buymeacoffee.com/daviddarnes#support)
 
-## Installation
+## People
 
 ### As a Jekyll theme
 
