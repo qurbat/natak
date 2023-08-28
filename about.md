@@ -6,8 +6,6 @@ Natak.org is an information security news and research publication.
 
 - [Follow @natak.org on Bluesky](https://bsky.app/profile/natak.org)
 
-[<img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" width="217"/>](https://buymeacoffee.com/daviddarnes#support)
-
 ## People
 
 ### As a Jekyll theme
